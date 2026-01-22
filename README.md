@@ -147,19 +147,19 @@ sistema-monitoramento-ti/
 ##  Roadmap
 
 ### Versão atual (v1.0)
-- ✅ Dashboard web responsivo
-- ✅ Coleta de métricas básicas
-- ✅ Geração de relatórios HTML
-- ✅ Logs de segurança
+-  Dashboard web responsivo
+-  Coleta de métricas básicas
+-  Geração de relatórios HTML
+-  Logs de segurança
 
 ### Próximas versões
-- [ ] Integração com Flask para dados em tempo real (v1.1)
-- [ ] Autenticação de usuários (v1.2)
-- [ ] Banco de dados para histórico estendido (v1.3)
-- [ ] Alertas via Telegram/Slack (v1.4)
-- [ ] API REST completa (v2.0)
-- [ ] Dashboard mobile nativo (v2.1)
-- [ ] Machine learning para previsão de falhas (v3.0)
+-  Integração com Flask para dados em tempo real (v1.1)
+-  Autenticação de usuários (v1.2)
+-  Banco de dados para histórico estendido (v1.3)
+-  Alertas via Telegram/Slack (v1.4)
+-  API REST completa (v2.0)
+-  Dashboard mobile nativo (v2.1)
+-  Machine learning para previsão de falhas (v3.0)
 
 ##  Contribuindo
 
@@ -175,7 +175,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👤 Autor
+##  Autor
 
 **Kaylane Kimberly**
 
@@ -183,7 +183,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - GitHub:https://github.com/Kaylanekymberly
 - Email: kaylanekymberly123@gmai.com
 
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 Projeto desenvolvido como parte do portfólio acadêmico em Gestão de TI, aplicando conceitos de:
 - ITIL (Information Technology Infrastructure Library)
@@ -193,4 +193,4 @@ Projeto desenvolvido como parte do portfólio acadêmico em Gestão de TI, aplic
 
 ---
 
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+ Se este projeto foi útil para você, considere dar uma estrela no repositório!
