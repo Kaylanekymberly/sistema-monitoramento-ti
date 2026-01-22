@@ -114,7 +114,7 @@ crontab -e
    - Programa: `python.exe`
    - Argumentos: `C:\caminho\monitoring_system.py`
 
-## 📊 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 sistema-monitoramento-ti/
